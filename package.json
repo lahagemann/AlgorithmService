@@ -5,7 +5,7 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./tests",
     "lint": "./node_modules/eslint/bin/eslint.js *.js",
-    "lint:fix": "./node_modules/eslint/bin/eslint.js *.js --fix",
+    "lint:fix": "./node_modules/eslint/bin/eslint.js *.js --fix"
   },
   "dependencies": {
     "mocha": "^5.2.0"
